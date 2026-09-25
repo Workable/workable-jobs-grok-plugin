@@ -2,6 +2,7 @@
   "name": "jobs-by-workable",
   "version": "1.0.0",
   "description": "Search published jobs and manage a candidate profile on the Jobs by Workable job board, through the official hosted MCP server.",
+  "logo": "JobsByWorkable.png",
   "author": {
     "name": "Workable",
     "url": "https://github.com/Workable"
@@ -9,5 +10,12 @@
   "repository": "https://github.com/Workable/workable-jobs-grok-plugin",
   "homepage": "https://jobs.workable.com",
   "license": "MIT",
-  "keywords": ["jobs by workable", "workable job board", "jobs.workable.com"]
+  "keywords": [
+    "jobs-by-workable",
+    "workable",
+    "job-search",
+    "job-board",
+    "productivity",
+    "candidate-profile"
+  ]
 }
