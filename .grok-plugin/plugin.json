@@ -11,11 +11,14 @@
   "homepage": "https://jobs.workable.com",
   "license": "MIT",
   "keywords": [
+    "jobs",
     "jobs-by-workable",
     "workable",
     "job-search",
     "job-board",
     "productivity",
-    "candidate-profile"
+    "candidate-profile",
+    "recruiting",
+    "hiring-now"
   ]
 }
