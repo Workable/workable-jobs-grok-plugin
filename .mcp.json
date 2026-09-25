@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "jobs-by-workable": {
+      "type": "http",
+      "url": "https://jobs.workable.com/mcp",
+      "note": "Official Jobs by Workable hosted MCP server. Job search, job details, companies, and locations work without signing in. Profile, applications, recommendations, recent searches, and withdraw use OAuth: the client is prompted in the browser on first protected call. Do not paste a password, token, or API key."
+    }
+  }
+}
